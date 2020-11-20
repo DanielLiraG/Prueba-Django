@@ -19,6 +19,9 @@ class TemperaturaSerializer (serializers.Serializer):
         #comentario depues del checkout
         #comentario
 
+        #comentario
+        
+
 class HumedadSerializer (serializers.Serializer):
 
     fecha = serializers.DateTimeField()
